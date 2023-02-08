@@ -1,0 +1,2 @@
+Kotlin is a pragmatic programming language for the JVM and Android that combines Object-Oriented and functional features and is focused on interoperability, safety, clarity, and tooling support.
+Being a general-purpose language, Kotlin works everywhere where Java works.
